@@ -171,7 +171,7 @@ window.onload = function(){
 		}else if(i < 500000 && i > 400000 ){
 			var col = hsva(280, 1.0, 0.2, 0.9);
 		}else if(i < 400000 && i > 100000 ){
-			var col = hsva(50, 1.0, 0.6, 0.09);
+			var col = hsva(47, 1.0, 0.6, 0.09);
 		}else{
 			var col = hsva(220, 1.0, 0.6, 0.09);	
 		}
